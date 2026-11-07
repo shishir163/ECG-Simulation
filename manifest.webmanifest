@@ -1,0 +1,16 @@
+{
+  "name": "ECG Lab",
+  "short_name": "ECG Lab",
+  "description": "ECG simulator for ICU and FCPS: live 12-lead ECGs, quizzes, OSPE practice and ACLS drills.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0c0a0c",
+  "theme_color": "#0c0a0c",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
